@@ -7,8 +7,8 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: https://jina-kim.github.io/
-author: Jina Kim
+url: https://Salami-Mary.github.io/
+author: Mary Salami
 
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
@@ -18,13 +18,13 @@ title: Mary Salami
 name: Mary Salami
 univ_email: marysalami@ucsb.edu
 univ_email_full: marysalami@umail.ucsb.edu
-email: jinakimcs@gmail.com
-email_full: mailto:jinakimcs@gmail.com
+email: maryiderasalami@gmail.com
+email_full: maryiderasalami@gmail.com
 website: github.io
-website_full: https://jina-kim.github.io/
-github: https://github.com/Jina-Kim/
-linkedin: https://www.linkedin.com/in/jina-kim-5796a6134
-twitter: https://twitter.com/jina_kimmm/
-google_scholar: https://scholar.google.co.kr/citations?user=kS2XsAsAAAAJ
+website_full: https://Salami-Mary.github.io/
+github: https://github.com/Salami-Mary
+linkedin: https://www.linkedin.com/in/marysalami/
+twitter: https://twitter.com/dcode_bot
+google_scholar: https://t.co/LpG0LK2IdX
 # needed for travis-ci build
 exclude: [vendor]
